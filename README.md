@@ -1,4 +1,4 @@
-<img src="https://github.com/adityavardhan20/Aditya/blob/main/Aditya%20Vardhan%20banner.png" alt="logo" width="1000" height="500">
+<img src="https://github.com/adityavardhan20/Aditya/blob/main/Aditya%20Vardhan%20banner.png" alt="logo" width="1000" height="300">
 
 
 
